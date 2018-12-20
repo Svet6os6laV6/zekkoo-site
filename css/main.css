@@ -211,3 +211,12 @@ a:hover{
 .card_batton{
     margin-top: 15px;
 }
+.nav-link{
+    color:#000;
+}
+.nav-link:hover{
+    color:#FFB0B0;
+}
+.active:active{
+    color:#FFB0B0;
+}
